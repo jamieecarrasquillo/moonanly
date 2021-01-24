@@ -1,0 +1,12 @@
+{
+  "name": "Moonanly2",
+  "displayName": "Moonanly2",
+  "expo": {
+    "name": "Moonanly2",
+    "slug": "Moonanly2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
